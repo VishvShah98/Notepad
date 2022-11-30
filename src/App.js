@@ -7,6 +7,8 @@ function App() {
   ]);
   const [currentNoteId, setCurrentNote] = React.useState(0);
 
+  
+
   function createNote() {
     const newNote = {
       id: notes.length,

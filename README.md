@@ -1,4 +1,4 @@
-Notepad
+Notepad app created using React and Javascript
 
 
 
